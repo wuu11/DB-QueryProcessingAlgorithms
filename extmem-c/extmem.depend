@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1591860118 source:d:\实验教学\2022秋\数据库系统\实验六\学生版\第6次实验：查询处理算法的模拟实现\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 d:\实验教学\2022秋\数据库系统\实验六\学生版\第6次实验：查询处理算法的模拟实现\extmem-c\extmem.h
+
+1554883444 source:d:\实验教学\2022秋\数据库系统\实验六\学生版\第6次实验：查询处理算法的模拟实现\extmem-c\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1591860118 source:d:\大学\作业\数据库\实验四：查询处理算法的模拟实现\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 d:\大学\作业\数据库\实验四：查询处理算法的模拟实现\extmem-c\extmem.h
+
+1554883444 source:d:\大学\作业\数据库\实验四：查询处理算法的模拟实现\extmem-c\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1699353569 source:d:\大学\作业\数据库\实验四：查询处理算法的模拟实现\extmem-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"extmem.h"
+
