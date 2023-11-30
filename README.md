@@ -1,0 +1,2 @@
+# DB-QueryProcessingAlgorithms
+基于ExtMem程序库，用C语言模拟实现数据库中的几种查询处理算法
